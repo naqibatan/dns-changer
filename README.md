@@ -1,2 +1,2 @@
 # dns-changer
-Changing DNS Server with using Python
+Changing DNS Server in Windows 10 and Windows 11 with using Python
